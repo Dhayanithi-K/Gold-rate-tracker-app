@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gold Tracker</string>
+    <string name="widget_name">Gold rate</string>
+    <string name="widget_description">Today\'s gold rate in rupees with a 24-hour trend line</string>
+</resources>
